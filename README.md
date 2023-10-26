@@ -1,7 +1,10 @@
 # Subdomain-Enumeration
 ![image](https://github.com/EmperialX/Subdomain-Enumeration/assets/98850848/208ee2a5-59b5-4905-b17a-c3cdd6dea973)
 
+
 This Python script allows you to perform subdomain enumeration by fetching and storing data for a user-specified hostname. It extracts information related to IP addresses, domain names, and name servers for the provided hostname and stores the data in a MongoDB collection.This tool used for cybersecurity, web management, marketing, research, and network monitoring. It involves identifying and listing subdomains associated with a domain, providing insights and valuable data for different purposes.
+
+> Note: I have completed the task of obtaining information about a website's hostname and related details with its IP address. I will soon update the code to extract subdomains.
 
 ## Prerequisites
 
