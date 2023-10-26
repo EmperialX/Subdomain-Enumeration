@@ -18,10 +18,11 @@ Ensure you have a MongoDB server running on `localhost` and listening on port `2
 
 3. Run the script using the following command:
 
-   ```
+```
   Automated_Subdomain_Lister.py
-   ```
+```
 
-Feedback
+
+### Feedback
 
 I'm always open to questions, feedback, and suggestions. If you have any, feel free to reach out. Enjoy exploring the vast world of subdomain with this tool!
